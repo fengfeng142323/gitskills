@@ -3,4 +3,6 @@ Creating a new branch is quick AND simple.
 
 no fast forward
 
-bug 
+bug
+
+fix bug 101
